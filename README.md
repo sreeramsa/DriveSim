@@ -1,5 +1,5 @@
 # DriveSim
-Simulator designed to generate diverse driving scenarios.
+Simulator designed to generate diverse driving scenarios. Code to be released in this repository soon.
 
 This simulator was used in our work: "Probing Multimodal LLMs as World Models for Driving".
 
